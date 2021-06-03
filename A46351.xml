@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgement upon the arguments, for and against the Charter of London delivered at Westminster, the 12th day of June, 1683.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46351</idno><idno type="EEBO-CITATION">11859499</idno>
+  <idno type="VID">49998</idno>
+  <idno type="EEBO-PROQUEST">2240889184</idno>
+  
+            <idno type="STC">Wing J1184A</idno>
+            <idno type="STC">ESTC R16987</idno>
+            <idno type="OCLC">11859499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgement upon the arguments, for and against the Charter of London delivered at Westminster, the 12th day of June, 1683.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Politics and government.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49998:1"/>
+            <pb n="1" facs="tcp:49998:1"/>
+            <head>THE JUDGEMENT UPON The ARGUMENTS, for and against THE CHARTER OF LONDON.</head>
+            <opener>
+               <dateline>Delivered at <hi>Westminster,</hi>
+                  <date>the 12<seg rend="sup">th.</seg> day of <hi>June,</hi> 1683.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas upon the <hi>Quo-Warranto,</hi> brought against the Lord Mayor, Aldermen, and Commonalty, of the City of <hi>London, &amp;c.</hi> For that they taking upon them to be a body Po<g ref="char:EOLhyphen"/>litick, <hi>&amp;c.</hi> Did make By-Laws, thereby oppressing his Majestys Subjects in Extorting from them certain Sums of Money, <hi>(viz.)</hi> From all that come to their <hi>Markets</hi> to sell any goods amounting to 5000 <hi>l.</hi> a year. And also did make an Order for the Printing a certain Scandalous Petition, which according to that Order was Printed and published, tending to the seducing of his Majestys Subjects to a dislike of his Government, <hi>&amp;c.</hi> And that upon the bringing an Information against them for the same they pleaded thereto, To which there hath since been a Replication, Rejoynder, Demurrer, Breaches, Assigns, and Arguments of the Validity thereof.</p>
+            <p>The last of which Arguments, were in <hi>Easter Term</hi> now last past, by <hi>Mr. Attorney General</hi> for the King, and by <hi>Mr. Polexsen</hi> for the City, and that upon a Motion for Judgment thereon, an Order was made for the giving it the first <hi>Tuesday</hi> in <hi>Trinity Term.</hi>
+            </p>
+            <pb n="2" facs="tcp:49998:2"/>
+            <p> Accordingly on <hi>Tuesday,</hi> the <hi>12th.</hi> day of <hi>June,</hi> 1683. Assoon as the Judges were sat in the Court of Kings Bench, <hi>(viz) Mr. Justice Jones, Mr. Justice Raymond,</hi> and <hi>Mr. Justice Withens.</hi>
+            </p>
+            <p>The Kings <hi>Attorney General,</hi> moved for their Judgment <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Mr, Justice Jones</hi> speaking first, recited the most Material heads, of of what had past, in the proceedings on each side upon the <hi>Quo-Warranto,</hi> which had been brought against the Mayor, Aldermen, and Commonalty, of the City of <hi>London,</hi> for taking upon them to be a Body Politick, <hi>&amp;c.</hi> That thereupon they had Pleaded <hi>Magna Charta.</hi> And the Graunt of seve<g ref="char:EOLhyphen"/>ral Kings, and Queens. Particularly of his Majesty that now is. To which it had been replyed, they contrary to the said Graunts, had amongst themselves made By-Laws, and levyed certain Tolls, or Taxes upon all People to their Markets, whether they Sold or not, to the great Oppressi<g ref="char:EOLhyphen"/>on of his Majesties Subjects; In defence of which they alledge to have Time, out of Mind, had a right of choosing a Common Councel to the Number of 250. And by them to make such By-Laws, for the better Governance of the City, as were not repugnant to the Common Law, that it hath been to that replyed their By-Laws, so to oppress his Majesties Subjects was contrary to Law and an Intrenchment upon the fundamental Laws of the Land, for which their CHARTER ought to be seized. And further that contrary to the known Law, they had made an Order for the Printing of a Scandalous Petition and that pursuant to such Order, the same was Printed, and Publisht throughout the Kingdom, tending to the seducing of his Majesties Subjects into dislike of his Govern<g ref="char:EOLhyphen"/>ment, and to stir up his Liege People to Sedition, and Rebellion, in excuse of which they had set forth that there was a Plot, <hi>&amp;c.</hi> Or he recited after this manner what had past from the Information, to the end of the said Arguments, and that it now stood for the Judgment of that Court, by an Order of the last <hi>Term.</hi>
+            </p>
+            <p>He was pleased to tell them of the very great deliberation, that had been used in the Consideration of the Arguments, and of the diligent per<g ref="char:EOLhyphen"/>usal of an extract of the City Books, and other Records, mentioning se<g ref="char:EOLhyphen"/>veral Conferences which had been thereon, and with the Lord <hi>Chief-Justice,</hi> (who was not present by reason he remains indisposed in his health) that they had all concurred in one Opinion, and that therefore he would briefly deliver the Resolutions of them all, which he did under several Heads, concluding them all with the Opinion of the Court, that upon the whole Record, both as to the Information and Plea, and as to the Form and Manner of Pleading, that Judgment ought to be given.</p>
+            <p>And that therefore it was the Judgment of that Court that the Franchi<g ref="char:EOLhyphen"/>ses and Liberties of <hi>London</hi> be seized, <hi>&amp;c.</hi>
+            </p>
+            <p>After which the other two Judges <hi>(viz.) Mr. Justice Raymond,</hi> and <hi>Mr. Justice Withens,</hi> assented thereto as it had been delivered by <hi>Mr. Justice Jones.</hi>
+            </p>
+            <p>Notwithstanding which the Entring up of Judgment is deferred until His Majesties Pleasure shall be known therein.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> George Croom, <hi>in</hi> Thames-street, <hi>over against</hi> Baynard<hi>'s</hi> Castle, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
